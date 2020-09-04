@@ -1,4 +1,4 @@
-### 우왕 신기하다
+### 
 
 <!--
 **choo5145/choo5145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
